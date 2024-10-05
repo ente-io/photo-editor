@@ -4,3 +4,4 @@ export { default as usePhotoColourAdjuster } from './hooks/usePhotoColourAdjuste
 
 export { default as PhotoEditorPreview } from './components/PhotoEditorPreview';
 export { PhotoEditorProvider } from './components/PhotoEditorContext';
+export { usePhotoEditorContext } from './components/PhotoEditorContext';

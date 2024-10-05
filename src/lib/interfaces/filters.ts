@@ -1,7 +1,7 @@
-export default interface FilterValues {
-    brightness: number;
-    contrast: number;
-    blur: number;
-    saturation: number;
-    invert: boolean;
+export interface FilterValues {
+  brightness: number;
+  contrast: number;
+  blur: number;
+  saturation: number;
+  invert: boolean;
 }
